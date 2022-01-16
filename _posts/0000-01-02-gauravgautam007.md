@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: I Love GitHub
+title: "Welcome to GitHub Plateform!"
 ---
-Your text
+My text
 Use the left arrow to go back!
